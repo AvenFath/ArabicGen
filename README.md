@@ -1,3 +1,4 @@
+<img width="1200" height="630" alt="Luxury_Gold_Arabic_Emblem_1200x630" src="https://github.com/user-attachments/assets/c1c8fd01-e35b-412e-964d-1101c487bcf0" />
 # © ArabicGen
 
 > **All Rights Reserved. Do not copy, clone, or reuse this code.**
