@@ -1,3 +1,5 @@
+<img width="1670" height="882" alt="arabicgen2" src="https://github.com/user-attachments/assets/e57457a2-3d17-4b43-95c5-539fca291b6a" />
+<img width="1886" height="890" alt="arabicgen" src="https://github.com/user-attachments/assets/816bbd44-b064-498b-9cac-e590ba9ca015" />
 <img width="1200" height="630" alt="Luxury_Gold_Arabic_Emblem_1200x630" src="https://github.com/user-attachments/assets/c1c8fd01-e35b-412e-964d-1101c487bcf0" />
 # © ArabicGen
 
