@@ -9,7 +9,8 @@
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)
 ![Owner](https://img.shields.io/badge/Owner-AvenFath-black)
 
-### 🔴 WARNING - DO NOT COPY
+### 🔴 WARNING - DO NOT COPY<img width="1627" height="882" alt="arabicgen3" src="https://github.com/user-attachments/assets/f5b7ea25-1512-4691-9a78-68d6e85a7560" />
+
 
 This is a private project owned by **AvenFath**.
 
